@@ -19,7 +19,7 @@ To start using this project use the following commands:
 * Click on the green button to clone or download
 
 ## BDD
-| Behavior Our program should handle             | Input Example When it Receives | Output Example When it Receives     |
+| Behavior Our program should  handle             | Input Example When it Receives | Output Example When it Receives     |
 |------------------------------------------------|--------------------------------|-------------------------------------|
 | User required to search for an accountin github |all the repositories to be displayed          | user can check anyrepository of the searched account             |
 
